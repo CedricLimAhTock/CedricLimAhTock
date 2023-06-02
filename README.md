@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedriclimahtock&label=Profile%20views&color=0e75b6&style=flat" alt="cedriclimahtock" /> </p>
 
-- 👨‍💻 All of my projects are available [here](https://cedriclimcv.firebaseapp.com)
+- 👨‍💻 All of my projects are available [here]([https://cedriclimcv.firebaseapp.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
 
 - 📫 Reach me by mail **cedric.html@gmail.com**
 
